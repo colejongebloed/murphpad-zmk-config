@@ -16,6 +16,8 @@
 #define DEFAULT 0
 #define FN      1
 
+&ext_power EP_ON
+
 &encoder_1 {
     status = "okay";
 };
