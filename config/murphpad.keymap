@@ -67,7 +67,7 @@
                 &trans      &kp N7           &kp N8          &kp N9            &kp DEL
                 &kp C_MUTE  &kp N4           &kp N5          &kp N6            &kp ENTER
                 &mo FN      &kp N1           &kp N2          &kp N3            &kp LEFT_SHIFT
-                &mo FN      &kp N0           &kp KP_MINUS    &kp KP_EQUAL      &kp KP_DOT
+                &mo FN      &kp N0           &kp KP_MINUS    &kp EQUAL         &kp PERIOD
             >;
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
 
